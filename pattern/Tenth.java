@@ -1,4 +1,4 @@
-package pattern;
+// package pattern;
 
 import java.util.Scanner;
 
@@ -29,6 +29,7 @@ public class Tenth {
                 }
                 System.out.print("*");
             }
+            System.out.println();
         }
     }
 }

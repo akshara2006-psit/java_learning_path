@@ -1,5 +1,5 @@
 
-package pattern;
+// package pattern;
 
 import java.util.Scanner;
 
