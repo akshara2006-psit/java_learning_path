@@ -11,4 +11,4 @@ public class June_2_2 {
             System.out.println(num+" is even number");
     }
 }
-//Check numbera are even or odd using bitwise operator
+//Check numberc are even or odd using bitwise operator
