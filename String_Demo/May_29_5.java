@@ -17,6 +17,7 @@ public class May_29_5 {
         else{
             System.out.println("the string is not palindrome");
         }
+      
     }
     
 }
